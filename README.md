@@ -30,20 +30,31 @@ Admins may manage physicians, patients, add doctor specialisations, and review t
 
 5. MVC diagram:
    5.1 ERD diagram:
+  
+
 ![diagram](https://user-images.githubusercontent.com/75902424/147730064-ba0ff2ab-6cb0-4d1c-84e9-fc78b8c121b4.png)
 
 View:
 main.jsp
+
 Header.jsp
+
 HospitalInfo.jsp
+
 DoctorInfo.jsp
+
 Controller:
+
 Login.java
+
 Appoitment.java
 
 Model:
+
 Login.java
+
 Patient.java
+
 Doctor.java
 
 
