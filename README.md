@@ -10,7 +10,7 @@
 
 
 3. Objective of the proposed web application: 
-The  “Hospital Management System” will be developed in Laravel frame. All the record stores in the database. It manages inpatient, outpatient, doctors, and employee’s record. This is the complete software application of the Hospital management system. This project will be designed and coded in Visual Studio & database management is handled by XAMPP Server. This system mainly focuses on basic operations in a Hospital like Appointment module, Inpatient and Outpatient module, Treatment module, Payment, billing module, Reports, and statistics module. “Hospital management software” is a web frame application written on a 64-bit, Windows 10 operating system, designed to help, maintain, and organise hospitals. This application is easy to use for both beginners and advanced users. It features a familiar and well thought-out, an attractive user interface, combined with strong searching insertion and reporting capabilities. The report generation facility of this application helps to get the complete overview of hospitals. 
+The  “Hospital Management System” will be developed in Laravel frame. All the record stores in the database. It manages inpatient, outpatient, doctors, and employee’s record. This is the complete software application of the Hospital management system. This project will be designed and coded in Visual Studio & database management is handled by XAMPP Server. This system mainly focuses on basic operations in a Hospital like Appointment module, Inpatient and Outpatient module, Treatment module, Payment, billing module, Reports, and statistics module. This application is easy to use for both beginners and advanced users. It features a familiar and well thought-out, an attractive user interface, combined with strong searching insertion and reporting capabilities. The report generation facility of this application helps to get the complete overview of hospitals. 
 
 
 
@@ -29,9 +29,22 @@ The  “Hospital Management System” will be developed in Laravel frame. All th
 Admins may manage physicians, patients, add doctor specialisations, and review the session records of both doctors and patients. This approach simplifies hospital management for both patients and clinicians. This project’s design is simple, and the user will find it easy to comprehend, use, and navigate. 
 
 5. MVC diagram:
+   5.1 ERD diagram:
+![diagram](https://user-images.githubusercontent.com/75902424/147730064-ba0ff2ab-6cb0-4d1c-84e9-fc78b8c121b4.png)
 
+View:
+main.jsp
+Header.jsp
+HospitalInfo.jsp
+DoctorInfo.jsp
+Controller:
+Login.java
+Appoitment.java
 
-    5.1 ERD diagram:
+Model:
+Login.java
+Patient.java
+Doctor.java
 
 
 6. A sequence diagram to represent the interaction of the proposed web app
