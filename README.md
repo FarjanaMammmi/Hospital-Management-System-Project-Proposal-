@@ -31,7 +31,7 @@ Admins may manage physicians, patients, add doctor specialisations, and review t
 5. MVC diagram:
 
 
-5.1 ERD diagram:
+  5.1 ERD diagram:
 
 
 6. A sequence diagram to represent the interaction of the proposed web app
