@@ -29,6 +29,7 @@ The  “Hospital Management System” will be developed in Laravel frame. All th
 Admins may manage physicians, patients, add doctor specialisations, and review the session records of both doctors and patients. This approach simplifies hospital management for both patients and clinicians. This project’s design is simple, and the user will find it easy to comprehend, use, and navigate. 
 
 5. MVC diagram:
+
    5.1 ERD diagram:
   
 
