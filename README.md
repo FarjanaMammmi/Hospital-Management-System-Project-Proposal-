@@ -1,22 +1,9 @@
-![cover](https://user-images.githubusercontent.com/75902424/147711392-c4987e38-d200-43f6-b77e-b7220f16f424.JPG)
-
-                                         INFO 3305 Web Application Development
-
-
-                                                    Project Proposal
-
-                                                       Group C
-
-![name](https://user-images.githubusercontent.com/75902424/147711121-cdccbb74-0cc1-4332-b4dc-efc9d856ac43.JPG)
-
-                                                      Section 4
-                                                    Instructed by 
-                                                Dr Mohd Khairul B Hassan
-                                                     DECEMBER 2021
-                                                 SEMESTER I 2021/2022
-                                                 
-                                               
+![cover](https://user-images.githubusercontent.com/75902424/147712642-f599597b-af99-442c-9049-6d0dbe70431e.JPG)
+![c2](https://user-images.githubusercontent.com/75902424/147712798-5780c895-ded0-4985-9c6e-2272e0afe209.JPG)
+                              
 ![work responsibilities](https://user-images.githubusercontent.com/75902424/147711527-805e3c00-22ea-45bc-b024-b42ef5af17d9.JPG)
+
+![member name](https://user-images.githubusercontent.com/75902424/147712923-1245bd4c-0bda-41f0-b95d-ec37af143354.JPG)
 
 1. Title of the project: Hospital Management System.
 2. Introduction of the proposed web application: 
