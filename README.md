@@ -2,6 +2,7 @@
 ![c2](https://user-images.githubusercontent.com/75902424/147712798-5780c895-ded0-4985-9c6e-2272e0afe209.JPG)
 ![member name](https://user-images.githubusercontent.com/75902424/147712923-1245bd4c-0bda-41f0-b95d-ec37af143354.JPG)
 ![work responsibilities](https://user-images.githubusercontent.com/75902424/147711527-805e3c00-22ea-45bc-b024-b42ef5af17d9.JPG)
+
 YouTube Link: https://www.youtube.com/playlist?list=PLzkLFUgrXzmuB2Lov62D0gijj5HUOfjtm 
 
 1. Title of the project: Hospital Management System.
