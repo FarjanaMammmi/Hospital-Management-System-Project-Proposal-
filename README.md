@@ -16,16 +16,16 @@ The  “Hospital Management System” will be developed in Laravel frame. All th
 
 4. Features and functionalities of the proposed web application: 
 
-4.1 Managing doctors: Through that panel, the user can add new listings of doctors. It is possible to edit and delete the list. Records that have been deleted will be shown in a tabular format that can be undeleted. 
+   4.1 Managing doctors: Through that panel, the user can add new listings of doctors. It is possible to edit and delete the list. Records that have been deleted will be shown in a tabular format that can be undeleted. 
 
 
-4.2 Managing patients: handle patient records and perform operations such as change, delete, and undelete on them. 
+  4.2 Managing patients: handle patient records and perform operations such as change, delete, and undelete on them. 
 
 
-4.3 Appointments: Appointments can be managed in the application using the doctors and patients IDs. 
+  4.3 Appointments: Appointments can be managed in the application using the doctors and patients IDs. 
 
 
-4.4 Registration: Check-in and check-out procedures for patients, automation in the laboratory, manage schedule, manage pharmacy, keeping track of patients records, managing financial, keeping track of patients records, managing financial, keeping track of employees, managing lap, payroll system for employees, managing lap, payroll system for employees, manage prescriptions, consultant doctor, manage beds, manage human resources. 
+  4.4 Registration: Check-in and check-out procedures for patients, automation in the laboratory, manage schedule, manage pharmacy, keeping track of patients records, managing financial, keeping track of patients records, managing financial, keeping track of employees, managing lap, payroll system for employees, managing lap, payroll system for employees, manage prescriptions, consultant doctor, manage beds, manage human resources. 
 Admins may manage physicians, patients, add doctor specialisations, and review the session records of both doctors and patients. This approach simplifies hospital management for both patients and clinicians. This project’s design is simple, and the user will find it easy to comprehend, use, and navigate. 
 
 5. MVC diagram:
