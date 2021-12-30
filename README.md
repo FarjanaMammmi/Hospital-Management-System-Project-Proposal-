@@ -39,4 +39,5 @@ Admins may manage physicians, patients, add doctor specialisations, and review t
  ![sequence diagram](https://user-images.githubusercontent.com/75902424/147711742-016724ff-b1e5-4c42-bf33-e2a0641e5759.png)
 
 
-
+References:
+https://www.diagrameditor.com/
