@@ -41,3 +41,38 @@ Doctor.java
 6. A sequence diagram to represent the interaction of the proposed web application: 
 
 ![Se](https://user-images.githubusercontent.com/75902424/151086518-e6168594-1c55-4ba4-9cc4-acbf7871b77d.JPG)
+
+![Part2](https://user-images.githubusercontent.com/75902424/151086872-a79f1711-c0d1-41c3-9e2b-817dc184e1e8.JPG)
+
+1. Departments: In this Hospital Management System, the management could able to add departments, also could able to see the departments list. 
+
+![addDepartment](https://user-images.githubusercontent.com/75902424/151087055-e708d29f-32ed-4f34-b926-8b92defd0b25.JPG)
+![DepartmentList](https://user-images.githubusercontent.com/75902424/151087066-278c4c4d-7560-4939-ae27-6641c723476e.JPG)
+
+2. Doctors: The hospital management could add doctors, and could see the doctors list. 
+
+![addDoctor](https://user-images.githubusercontent.com/75902424/151087167-2d96fffa-ff2a-4ff1-b961-5d5a155b6fac.JPG)
+![DoctorsList](https://user-images.githubusercontent.com/75902424/151087187-790cfd55-c7dc-49be-9e88-4536097275ff.JPG)
+
+3. Patients: In this section the management of hospital could add patients, patients list, documents.
+
+![addPatients](https://user-images.githubusercontent.com/75902424/151087333-ff50a692-856b-4a12-b728-ecc6869d832b.JPG)
+![PatientList](https://user-images.githubusercontent.com/75902424/151087350-984e9fce-c18d-4470-8993-9e6dd973019e.JPG)
+
+4. Human Resources: In human resources the hospital could add nurses, pharmacists, receotionists. Along with, the hospital could see the lists of lists and hostory. 
+
+![AddNurse](https://user-images.githubusercontent.com/75902424/151087685-9c0f6298-f97d-488c-9848-f2d709825b9e.JPG)
+![NurseList](https://user-images.githubusercontent.com/75902424/151087700-612b9121-b22e-47e6-8cd2-eda43e76f984.JPG)
+![AddPharmacist](https://user-images.githubusercontent.com/75902424/151087715-15f22f98-f177-4936-b9d1-1e192aeafe1e.JPG)
+![PharmacistList](https://user-images.githubusercontent.com/75902424/151087741-fe099d7b-3b22-4457-bd61-5acdd59e0888.JPG)
+![addReceptionist](https://user-images.githubusercontent.com/75902424/151087784-f67e6cd7-e216-4e94-9b79-417b4cc3106f.JPG)
+![ReceptionistList](https://user-images.githubusercontent.com/75902424/151087802-0d2658a4-dacb-47b4-b00a-b3fb28880f55.JPG)
+
+5. Schedules: The management of hospital could schedule the doctors time table, and could maintain their day off schedule. 
+
+![ScheduleList](https://user-images.githubusercontent.com/75902424/151088129-0c5a698c-2682-488c-b86c-ab875cf11db8.JPG)
+![DayOffSchedule](https://user-images.githubusercontent.com/75902424/151088162-d0efd47c-1bc1-4455-9fa9-66cfbad1b2d1.JPG)
+
+
+
+
