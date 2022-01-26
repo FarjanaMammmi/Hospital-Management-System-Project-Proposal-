@@ -68,11 +68,39 @@ Doctor.java
 ![addReceptionist](https://user-images.githubusercontent.com/75902424/151087784-f67e6cd7-e216-4e94-9b79-417b4cc3106f.JPG)
 ![ReceptionistList](https://user-images.githubusercontent.com/75902424/151087802-0d2658a4-dacb-47b4-b00a-b3fb28880f55.JPG)
 
-5. Schedules: The management of hospital could schedule the doctors time table, and could maintain their day off schedule. 
+5. Schedules: The management of hospital could maintain doctors schedule list, and day off schedule. 
 
 ![ScheduleList](https://user-images.githubusercontent.com/75902424/151088129-0c5a698c-2682-488c-b86c-ab875cf11db8.JPG)
 ![DayOffSchedule](https://user-images.githubusercontent.com/75902424/151088162-d0efd47c-1bc1-4455-9fa9-66cfbad1b2d1.JPG)
 
+6. Appointments: Patients could make an appointment, the appointments list would be visible.
 
+![AddAppointment](https://user-images.githubusercontent.com/75902424/151088607-7a2c7624-c308-4df8-a6fc-9a606eb05581.JPG)
 
+7. Services: The management of the hospital could be able to add services, and the services list would appear in the system. 
+
+![AddService](https://user-images.githubusercontent.com/75902424/151088860-3ee76fb0-72ca-43f4-8af0-8540f54d449a.JPG)
+![ServiceList](https://user-images.githubusercontent.com/75902424/151088882-653f36f7-af15-46f2-9aa0-cdf45c292716.JPG)
+
+8. Beds: The hospital could allocate beds for its patients. 
+
+![AddBedAllotment](https://user-images.githubusercontent.com/75902424/151089052-9876ff12-a07e-46ea-bfdd-79b371d2ecaf.JPG)
+
+9. Financial: Financial is an important part of this Hospital Management System. This system would keep records of all of the payments history. 
+
+![AddPaymentItem](https://user-images.githubusercontent.com/75902424/151089297-80d5ad46-f987-4cab-975f-8549f15a8a01.JPG)
+![PaymentItemsList](https://user-images.githubusercontent.com/75902424/151089329-5e3633e9-9cc9-4136-9da5-e04dfcf6b517.JPG)
+
+![Challenges](https://user-images.githubusercontent.com/75902424/151089510-89723b84-c78f-428f-99cc-4f7531c5b83c.JPG)
+
+The common challenges that we have faced:
+
+1) Knowledge of framework and platform.
+2) Clearly defining our goals and requirements.
+3) Group performance and speed.
+4) Web security threats.
+5) Choosing the right tech stack. 
+
+References: https://www.diagrameditor.com/
+            https://laravel.com/
 
