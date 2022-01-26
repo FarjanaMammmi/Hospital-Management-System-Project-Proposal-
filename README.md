@@ -95,11 +95,12 @@ Doctor.java
 
 The common challenges that we have faced:
 
-1) Knowledge of framework and platform.
-2) Clearly defining our goals and requirements.
-3) Group performance and speed.
-4) Web security threats.
-5) Choosing the right tech stack. 
+1) Time limit: the period was not enough for developing and creating a perfect system. 
+2) Limited resource: lack of resources and tools to develop a strong system.
+3) Lack of experience: the group members do not have experience in developing a system.
+4) Team mates distance: the distance of our team members is far. Thus, the communication was hard and the time difference was long.
+5) Lack of knowledge: as students we have limited view of hospital background and how they manage, add and use the IT system. 
+
 
 References: https://www.diagrameditor.com/
 
