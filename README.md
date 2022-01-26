@@ -117,7 +117,7 @@ SCREENSHOTS OF SYSTEM
 ![AddPaymentItem](https://user-images.githubusercontent.com/75902424/151082932-11093dbf-b2b1-4fd2-bf9d-134b41031160.JPG)
 ![PaymentItemsList](https://user-images.githubusercontent.com/75902424/151082955-5b1b8eca-e099-4a38-888b-c24df16f24ed.JPG)
 
-  ![Challenges](https://user-images.githubusercontent.com/75902424/151083165-6f6b7c31-9f50-4ac8-9142-e6c011b46c89.JPG)
+               ![Challenges](https://user-images.githubusercontent.com/75902424/151083165-6f6b7c31-9f50-4ac8-9142-e6c011b46c89.JPG)
 
 There have several challenges we have been faced:
 
