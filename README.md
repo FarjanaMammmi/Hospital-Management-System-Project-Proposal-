@@ -1,6 +1,6 @@
 ![COVERPAGE](https://user-images.githubusercontent.com/75902424/151086143-ccf7836e-fe64-486b-95b4-0a37afeae4d3.JPG)
-![contri](https://user-images.githubusercontent.com/75902424/151086157-72b5181d-10cb-4676-a093-97afb8a4cfdd.JPG)
-![con2](https://user-images.githubusercontent.com/75902424/151086215-2fcd3411-32a7-4772-81a1-0095cea90e97.JPG)
+![contri](https://user-images.githubusercontent.com/75902424/151090705-15bd72b7-eb68-40fa-9941-6ae4c34b410e.JPG)
+![con2](https://user-images.githubusercontent.com/75902424/151090830-8351f5b0-bd69-4ecd-b3ab-78f78ed0521d.JPG)
 1. Title of the project: Hospital Management System.
 2. Introduction of the proposed web application: 
 	The proposed web application is created to simplify and organise the hospital management system. This system can make the administration process easier by storing users’ data in the system instead of using a manual way such as keeping data on physical documents. This system includes adding, deleting, updating and managing data in a systematic and efficient manner.  
@@ -102,5 +102,6 @@ The common challenges that we have faced:
 5) Choosing the right tech stack. 
 
 References: https://www.diagrameditor.com/
+
             https://laravel.com/
 
