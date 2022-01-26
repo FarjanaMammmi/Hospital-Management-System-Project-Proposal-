@@ -49,12 +49,14 @@ Doctor.java
 ![addDepartment](https://user-images.githubusercontent.com/75902424/151087055-e708d29f-32ed-4f34-b926-8b92defd0b25.JPG)
 ![DepartmentList](https://user-images.githubusercontent.com/75902424/151087066-278c4c4d-7560-4939-ae27-6641c723476e.JPG)
 
-2. Doctors: The hospital management could add doctors, and could see the doctors list. 
+2. Doctors: The hospital management could add doctors, and could see the doctors list. Here would be doctors personal information for example: Name, National ID address, Medical Degree and Specialist then there are two buttons either to submit or to cancel.
+
 
 ![addDoctor](https://user-images.githubusercontent.com/75902424/151087167-2d96fffa-ff2a-4ff1-b961-5d5a155b6fac.JPG)
 ![DoctorsList](https://user-images.githubusercontent.com/75902424/151087187-790cfd55-c7dc-49be-9e88-4536097275ff.JPG)
 
-3. Patients: In this section the management of hospital could add patients, patients list, documents.
+3. Patients: In this section the management of hospital could add patients, patients list, documents. This part would carry patients personal information such as: Patient first name, Phone number, Gender and Blood Group.
+
 
 ![addPatients](https://user-images.githubusercontent.com/75902424/151087333-ff50a692-856b-4a12-b728-ecc6869d832b.JPG)
 ![PatientList](https://user-images.githubusercontent.com/75902424/151087350-984e9fce-c18d-4470-8993-9e6dd973019e.JPG)
@@ -95,7 +97,7 @@ Doctor.java
 
 The common challenges that we have faced:
 
-1) Time limit: the period was not enough for developing and creating a perfect system. 
+1) Time limitations: the period was not enough for developing and creating a perfect system. 
 2) Limited resource: lack of resources and tools to develop a strong system.
 3) Lack of experience: the group members do not have experience in developing a system.
 4) Team mates distance: the distance of our team members is far. Thus, the communication was hard and the time difference was long.
